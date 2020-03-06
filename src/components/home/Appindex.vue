@@ -1,15 +1,15 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
+  <div>
+    Hello world!
   </div>
 </template>
 
 <script>
-
 export default {
-  name: 'app'
+  name: 'Appindex.vue'
 }
 </script>
 
-<style>
+<style scoped>
+
 </style>
